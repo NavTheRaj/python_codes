@@ -1,0 +1,5 @@
+Maths:89
+Science:95
+Social:85
+Nepali:78
+HPE:87

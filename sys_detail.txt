@@ -1,0 +1,4 @@
+Uptime: up 20 hours, 34 minutes
+System Version: #40~18.04.1-Ubuntu SMP Thu Nov 14 12:06:39 UTC 2019
+IP address: 192.168.106.114 
+Logged in user: navraj

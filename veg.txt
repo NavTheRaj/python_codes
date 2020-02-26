@@ -1,0 +1,1 @@
+{'Cauliflower': '450', 'Brinjal': 10, 'Pumpkin': 25, 'Tomato': '250'}

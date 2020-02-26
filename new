@@ -1,0 +1,5 @@
+objects = title
+y_pos = np.arange(len(objects))
+x_pos = np.arange(len(label))
+performance = label
+colors=['blue','cyan','indigo','red','orange']

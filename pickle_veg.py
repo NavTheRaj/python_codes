@@ -1,3 +1,5 @@
+#WAP TO DEMONSTRATE DICTIONAARY OPERATIONS IN PYTHON
+
 veg_dict={'Brinjal':10,'Cabbage':20,'Pumpkin':25}
 
 print("-------------------\n")
